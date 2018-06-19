@@ -10,12 +10,12 @@ Return the correct string according to this table which lists the strokes in ord
 top (highest) to bottom (lowest):
 
 
-| Strokes	   | Return         |
+| Strokes    | Return         |
 |------------|----------------|
 | 1          | "Hole-in-one!" |
 | <= par - 2 | "Eagle"        |
 | par - 1    | "Birdie"       |
-| par	       | "Par"          |
+| par        | "Par"          |
 | par + 1    | "Bogey"        |
 | par + 2    | "Double Bogey" |
 | >= par + 3 | "Go Home!"     |

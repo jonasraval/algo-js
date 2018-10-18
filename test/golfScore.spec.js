@@ -1,7 +1,7 @@
 const chai = require("chai");
 const expect = chai.expect;
 
-describe("Assignment: Search and Replace", function() {
+describe("Assignment: Game of Golf", function() {
   const golfScore = require("../src/golfScore").golfScore;
   describe("golfScore", function() {
     it("provides the right name", function() {

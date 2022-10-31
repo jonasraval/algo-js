@@ -9,9 +9,10 @@ Some small exercices on loops and functions.
 ```sh
 npm install
 ```
+hbenl.vscode-mocha-test-adapter
 
-you can also install Mocha Sidebar for VSCode
-[![Version](https://vsmarketplacebadge.apphb.com/version/maty.vscode-mocha-sidebar.svg)](https://marketplace.visualstudio.com/items?itemName=maty.vscode-mocha-sidebar)
+you can also install
+[Mocha Test Explorer for VSCode](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-mocha-test-adapter)
 
 
 ## Usage

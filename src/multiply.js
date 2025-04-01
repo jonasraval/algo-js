@@ -6,7 +6,7 @@ function multiplyArray(arr) {
   for (let i=0; i<arr.length;i++) {
     total = total*arr[i];
   }
-  return total;
+  return;
 }
 
 /* Multiply all elements in the array of array */
